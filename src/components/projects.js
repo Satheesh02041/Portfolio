@@ -5,7 +5,7 @@ function Projects() {
       tech: "React.js • Node.js • Python • Gemma • LLaMA • MongoDB",
       description:
         "AI-powered movie review summarizer that analyzes positive and negative reviews using Gemma and LLaMA models to generate intelligent summarized insights.",
-      link: "https://github.com/Satheesh02041/Movie-Review-Summarizer",
+      link: "https://satheesh02041.github.io/movie_review_summarizer/",
     },
 
     {
